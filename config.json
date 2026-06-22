@@ -21,8 +21,7 @@
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
       "fallback": {
-        "dest": "127.0.0.1:8081",
-        "path": "/health"
+        "dest": "127.0.0.1:8081"
       }
     }
   ],
